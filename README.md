@@ -1,10 +1,12 @@
 # SageMath Installation
 
-Download source:
+Download source from:
 
 https://mirror.dogado.de/sage/src/index.html
 
-Extract to $HOME
+Unzip <code>sage-10.2.tar.gz</code> to home directory <code>$HOME</code>.
+
+Change into the installation directory:
 
 cd sage
 
