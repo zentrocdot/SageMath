@@ -4,7 +4,7 @@ Download source from:
 
     https://mirror.dogado.de/sage/src/index.html
 
-Unzip <code>sage-10.2.tar.gz</code> to home directory <code>$HOME</code>.
+Unzip <code>sage-10.2.tar.gz</code> to home directory <code>$HOME</code>. Optional rename directory to <code>sage</code>.
 
 Change into the installation directory:
 
