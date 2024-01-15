@@ -26,7 +26,7 @@ See also:
 
 doc.sagemath.org/html/en/installation/source.html
 
-www.sagemath.org/download-source.html
+<pre>www.sagemath.org/download-source.html</pre>
 
 Reference:
 
