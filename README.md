@@ -30,6 +30,6 @@ www.sagemath.org/download-source.html
 
 Reference:
 
-[1] SageMath, the Sage Mathematics Software System (Version 10.1), The Sage Developers, 2019, https://www.sagemath.org
+[1] SageMath, the Sage Mathematics Software System (Version 10.1), The Sage Developers, 2019, www.sagemath.org
 
 
