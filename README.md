@@ -24,12 +24,12 @@ sage -n jupyterlab
 
 See also:
 
-doc.sagemath.org/html/en/installation/source.html
+<pre>doc.sagemath.org/html/en/installation/source.html</pre>
 
 <pre>www.sagemath.org/download-source.html</pre>
 
 Reference:
 
-[1] SageMath, the Sage Mathematics Software System (Version 10.1), The Sage Developers, 2019, www.sagemath.org
+<pre>[1] SageMath, the Sage Mathematics Software System (Version 10.1), The Sage Developers, 2019, www.sagemath.org</pre>
 
 
