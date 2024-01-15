@@ -16,3 +16,8 @@ sage -i jupyterlab
 
 sage -n jupyterlab
 
+See also:
+
+doc.sagemath.org/html/en/installation/source.html
+www.sagemath.org/download-source.html
+
