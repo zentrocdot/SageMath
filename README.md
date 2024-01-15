@@ -1,6 +1,6 @@
 # SageMath Installation
 
-Download source from:
+Download source from one of [2] e.g.:
 
     https://mirror.dogado.de/sage/src/index.html
 
@@ -28,14 +28,14 @@ Run sagemath
 
 See also:
 
-<pre>doc.sagemath.org/html/en/installation/source.html</pre>
+<pre>[1] doc.sagemath.org/html/en/installation/source.html</pre>
 
-<pre>www.sagemath.org/download-source.html</pre>
+<pre>[2] www.sagemath.org/download-source.html</pre>
 
-<pre>doc.sagemath.org/html/en/index.html</pre>
+<pre>[3] doc.sagemath.org/html/en/index.html</pre>
 
 Reference:
 
-<pre>[1] SageMath, the Sage Mathematics Software System (Version 10.1), The Sage Developers, 2019, www.sagemath.org</pre>
+<pre>[4] SageMath, the Sage Mathematics Software System (Version 10.1), The Sage Developers, 2019, www.sagemath.org</pre>
 
 
