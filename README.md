@@ -14,12 +14,22 @@ cd sage
 
 make
 
+Install jupyterlab 
+
 sage -i jupyterlab
+
+Run sagemath
 
 sage -n jupyterlab
 
 See also:
 
 doc.sagemath.org/html/en/installation/source.html
+
 www.sagemath.org/download-source.html
+
+Reference:
+
+[1] SageMath, the Sage Mathematics Software System (Version 10.1), The Sage Developers, 2019, https://www.sagemath.org
+
 
