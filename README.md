@@ -20,11 +20,11 @@ Build from source:
 
 Install jupyterlab 
 
-    sage -i jupyterlab
+    ./sage -i jupyterlab
 
 Run sagemath
 
-    sage -n jupyterlab
+    ./sage -n jupyterlab
 
 See also:
 
